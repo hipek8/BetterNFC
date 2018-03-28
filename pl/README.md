@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Better NFC
 
-To będzie po polsku proszę.
+Better NFC to system ułatwiający obsługę klientów przy pomocy tagów NFC (breloczków, kart itp.).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Opracowany z myślą o obiektach sportowych, zoptymalizowany pod kątem ścianek wspinaczkowych.
 
-### Markdown
+## Funkcje
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Sczytywanie identyfikatorów NFC
+- Dodawanie stałych klientów, kupno abonamentu lub pojedynczych wejść
+- Powiązanie klienta z kartą NFC
+- Kontrolowanie czasów wizyt, informowanie o dopłatach
+- Podgląd wizyt w czasie rzeczywistym
+- Wypożyczanie sprzętu (butów, uprzęży itp.)
+- Eksport statystyk do arkusza
 
-```markdown
-Syntax highlighted code block
+## Wymagania
 
-# Header 1
-## Header 2
-### Header 3
+- Komputer z systemem Windows 10
+- Czytnik NFC
+- Identyfikatory NFC - breloczki, karty, opaski (liczba zależna od potrzeb)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hipek8/BetterNFC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+C.D.N.
